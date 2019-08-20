@@ -50,8 +50,6 @@ export default class Sandbox extends Component {
             start={item.start}
           />
         ))}
-
-        {/* <Button title="Noite de Sexo" onPress={this.addArray} /> */}
       </View>
     );
   }
